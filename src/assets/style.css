@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities; 
+
+
+:root{
+    @apply mx-3 my-3 scroll-smooth mr-3
+}
